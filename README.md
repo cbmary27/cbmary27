@@ -36,9 +36,6 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=cbmary27&theme=tokyo-night" />
 </p>
-
-**📈 Avg. commits per month:** ~XX *(total commits ÷ months active)*
-
 ---
 
 ## 📌 Currently working on
