@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,ts,react,nodejs,docker,git" />
+    <img src="https://skillicons.dev/icons?i=java,cs,dotnet,kotlin,androidstudio,firebase,unity,py,js,ts,react,nodejs,docker,git" />
   </a>
 </p>
 
@@ -33,9 +33,9 @@
   <img src="https://streak-stats.demolab.com/?user=cbmary27&theme=tokyonight" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=cbmary27&theme=tokyo-night" />
-</p>
+</p> -->
 ---
 
 ## 📌 Currently working on
