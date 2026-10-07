@@ -1,4 +1,7 @@
-<h1 align="center">Hi, I'm Chris 👋</h1>
+<h1 align="center">
+  Hey, I'm Chris!
+  <img src="./png-kitty.gif" width="45" alt="cat" />
+</h1>
 
 <p align="center">
   Current grad student at Boston University studying Computer Science!
