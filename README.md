@@ -9,8 +9,8 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=cbmary27&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <a href="https://linkedin.com/in/you"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/you](https://www.linkedin.com/in/chris-mary-benson-909ab6263/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:chrismaryb27@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
