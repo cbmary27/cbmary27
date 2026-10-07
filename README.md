@@ -39,10 +39,3 @@
 <!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=cbmary27&theme=tokyo-night" />
 </p> -->
----
-
-## 📌 Currently working on
-
-- 🔭 Project or topic you're building
-- 🌱 Something you're learning
-- 💬 Ask me about: your topics
