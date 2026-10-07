@@ -1,15 +1,7 @@
-<!-- <h1 align="center">
+<h1 align="center">
   Hey, I'm Chris!
   <img src="./png-kitty.gif" width="45" alt="cat" />
-</h1> -->
-
-<p align="center">
-  <img src="./banner" width="100%" alt="Hi, I'm Mary" />
-</p>
-
-<p align="center">
-  <img src="./png-kitty.gif" width="50" alt="cat" />
-</p>
+</h1>
 
 <p align="center">
   Current grad student at Boston University studying Computer Science!
